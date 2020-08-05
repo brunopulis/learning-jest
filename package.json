@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brunopulis/learning-jest/issues"
   },
-  "homepage": "https://github.com/brunopulis/learning-jest#readme"
+  "homepage": "https://github.com/brunopulis/learning-jest#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
 }
